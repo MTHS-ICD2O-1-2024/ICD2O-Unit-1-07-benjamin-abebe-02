@@ -2,3 +2,12 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+
+.mdl-layout__header-row{
+  background-color: green;
+}
+
+body{
+  background-color: silver;
+}

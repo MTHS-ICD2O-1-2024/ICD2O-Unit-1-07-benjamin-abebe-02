@@ -1,5 +1,5 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Benjamin Abebe
+* Created on: Feb 2025
 * This file contains the CSS for index.html
 */
 
@@ -10,4 +10,9 @@
 
 body{
   background-color: silver;
+}
+
+img {
+  float: right;
+  height: 200px;
 }
